@@ -1,8 +1,8 @@
-# Getting Started with PlannAR React App
+# Welcome to PlannAR Web Application
 
 PlannAR is an AR application that allows its users to design the event they are organizing through their device's lens, thus saving time and cost in real-time venue design.
 
-## Available Scripts
+## Getting Started
 
 In the project directory, you can run:
 
